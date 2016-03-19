@@ -1,5 +1,9 @@
 # CS-F222-Discrete-Structures-for-Computer-Science
 
+University: BITS-Pilani
+Year : 2013
+Semester : 3rd year - 1st Semester
+
 Problem Statement: 
 Consider a graph is represented using adjacency matrix,write a program which checks whether the graph is a rooted tree
 
