@@ -1,0 +1,2 @@
+The given graph is a Rooted Tree 
+The root vertex is: Vertex 1
